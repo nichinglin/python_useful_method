@@ -1,0 +1,17 @@
+
+# useful decorator list online
+# https://www.geeksforgeeks.org/top-python-built-in-decorators-that-optimize-python-code-significantly/
+from functools import wraps, cache, lru_cache
+
+from dataclasses import dataclass
+
+from abc import ABCMeta, abstractclassmethod
+
+@classmethod
+def func(cls, args...)
+
+@staticmethod
+
+@dataclass
+
+@property
